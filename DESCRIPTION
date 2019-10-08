@@ -1,14 +1,13 @@
 Package: etb
-Title: What the Package Does (One Line, Title Case)
+Title: Various shortcuts for faster data analysis and reporting
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Emil",
+           family = "Tveden Bjerglund",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: What license it uses
+           email = "emil@tbjerglund.dk")
+Description: Various functions for easy importing, cleaning and plotting of data from different pieces of equipment.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: 
