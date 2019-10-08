@@ -17,3 +17,5 @@ Imports:
     magrittr,
     ggplot2,
     scales
+URL: https://github.com/emiltb/etb
+BugReports: https://github.com/emiltb/etb/issues
